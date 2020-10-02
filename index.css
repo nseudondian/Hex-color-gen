@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.col{
+    height: 60vh;
+    margin-top: 5rem;
+}
+.btn{
+    margin-top: 5rem;
+    width: 15rem;
+    font-size: larger;
+    color: #262626;
+}
+h4{
+    margin-top: 3rem;
+    color: #262626;
+}
